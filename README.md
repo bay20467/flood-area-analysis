@@ -202,23 +202,3 @@ print(f"Shapefile bounds: {villages.total_bounds}")
 2. **Ensure data overlap** before processing
 3. **For large datasets**, consider processing in batches
 4. **Optimize raster resolution** for your analysis needs
-
-## License
-
-[Add your license information here]
-
-## Contributing
-
-[Add contribution guidelines here]
-
-## Contact
-
-[Add contact information here]
-
-## Citation
-
-If you use this tool in your research, please cite:
-
-```
-[Add citation format here]
-```
